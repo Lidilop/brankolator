@@ -7,3 +7,5 @@
     Samuel Sihotang
     Lidia Pulido
 
+# Link page
+    https://lidilop.github.io/brankolator/
